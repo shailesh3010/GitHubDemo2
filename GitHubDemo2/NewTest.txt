@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is from Eclipse now"
+=======
+This is created by gitHub
+>>>>>>> branch 'master' of https://github.com/shailesh3010/GitHubDemo2.git
